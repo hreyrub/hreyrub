@@ -11,6 +11,26 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hugo Reyes Rubio
+## Alumno DAM 
+### abcdefg
+
+Soy **alumno** del *Colegio* ***San Viator***
+
+Estamos aprendiendo: 
+1. Programación
+2. Bases de datos
+3. Entornos de desarrollo
+   
+También estamos estudiando:
+- Markdown
+- Diagramas entidad relación
+- Bucles
+
+  [web del colegio](https://www.sanviatorvalladolid.com)
+    
+  
+  
