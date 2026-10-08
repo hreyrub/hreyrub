@@ -30,7 +30,15 @@ También estamos estudiando:
 - Diagramas entidad relación
 - Bucles
 
-  [web del colegio](https://www.sanviatorvalladolid.com)
-    
-  
-  
+[web del colegio](https://www.sanviatorvalladolid.com)
+
+
+Instrucciones para crear un fichero:
+1. Sitúate en el directorio que quieras con el comando `cd <directorio>`
+2. Ejecuta le comando `touch <fichero>`
+
+Separadores
+---
+Otra sección
+---
+Tercera sección
